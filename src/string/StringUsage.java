@@ -96,6 +96,7 @@ public class StringUsage {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String phrase = ReadString();
+
         int option;
         System.out.println("Initial phrase: " + phrase);
 
