@@ -114,6 +114,7 @@ public class EntityManagement {
 
             String attribute = "name";
             displayRecordDetails(entities, attribute);
+
             // Updating data
             Entity entityToUpdate = entities.get(1);
             entityToUpdate.updateData("age", "30");
