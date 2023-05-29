@@ -1,0 +1,4 @@
+Person|John Doe|1000|30
+Company|ABC Corp|50000|Technology
+Person|Jane Smith|2000|25
+Company|XYZ Ltd|75000|Finance
